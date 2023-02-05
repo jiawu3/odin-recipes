@@ -1,2 +1,4 @@
 # odin-recipes
-TOP odin recipe repo
+Following along with TOP HTML section.
+
+Goal here is to learn the basics of HTML.
